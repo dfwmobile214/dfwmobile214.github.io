@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Your Idea, **Built 100%** in Dallas, Texas!"
+  text: "Software development is a complex process involving product development, design, and engineering. We greatly reduce this complexity by centralizing the talent needed to bring a product from kick-off to completion. Our team is very good at what they do and work together to rapidly prototype and implement your vision."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+

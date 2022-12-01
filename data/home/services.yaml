@@ -1,0 +1,47 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our main services"
+  cards:
+    - image: "images/web.png"
+      title: "Product Design"
+      text: "Our team has a wide range of experience building custom software for both startups and large enterprises. Having built over a dozen software products from scratch since our inception, we can turn your vision into reality by implementing it end-to-end. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/mobile.png"
+      title: "Mobile App Development"
+      text: "We specialize in iOS and Android development using a variety of technologies. Depending on the requirements, our team can deliver either a single-platform native application or a multiplatform application that can run on both iOS and Android with a single, shared codebase."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/full.png"
+      title: "Full-Stack Web Development"
+      text: "Our front-end design team creates responsive and beautiful interfaces that distinguish you from the crowd while our back-end engineers focus on building fast, scalable servers and databases that power your product. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/devops.png"
+      title: "Dev-ops and Cloud solutions"
+      text: "Our AWS certified dev-ops team is able to deploy and scale your application to meet demand by using the latest products and best practices in cloud computing."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/bs.png"
+      title: "Business Automation"
+      text: "Business automation is the use of technology applications that perform repetitive tasks, freeing up employees for higher value work. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/main.png"
+      title: "Application Maintenance"
+      text: "Application maintenance is the constant updating, modifying and re-assessing of software applications to correct faults or improve performance. If you have an existing application that needs maintaince or new feautures, please cantanct us."
+      button:
+        label: "Learn more"
+        url: "#"

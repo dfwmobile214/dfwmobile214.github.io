@@ -1,0 +1,11 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "Technology Stack "
+  items:
+    - "images/react.png"
+    - "images/AWS.png"
+    - "images/dj.png"
+    - "images/docker.png"
+    - "images/mongo.png"
