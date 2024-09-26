@@ -84,3 +84,8 @@ menus:
 taxonomies:
   series: "series"
   tags: "tags"
+
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
