@@ -26,22 +26,22 @@ content:
         url: "#"
 
     - image: "images/devops.png"
-      title: "Dev-ops and Cloud solutions"
-      text: "Our AWS certified dev-ops team is able to deploy and scale your application to meet demand by using the latest products and best practices in cloud computing."
+      title: "DevOps and Cloud solutions"
+      text: "Our AWS certified DevOps team is able to deploy and scale your application to meet demand by using the latest products and best practices in cloud computing."
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/bs.png"
       title: "Business Automation"
-      text: "Business automation is the use of technology applications that perform repetitive tasks, freeing up employees for higher value work. "
+      text: "Business automation is the use of technology applications that perform repetitive tasks, freeing up employees for higher-value work. "
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/main.png"
       title: "Application Maintenance"
-      text: "Application maintenance is the constant updating, modifying and re-assessing of software applications to correct faults or improve performance. If you have an existing application that needs maintaince or new feautures, please cantanct us."
+      text: "Application maintenance is the ongoing updating, modifying, and reassessing of software applications to correct faults or improve performance. If you have an existing application that needs maintenance or new features, please contact us."
       button:
         label: "Learn more"
         url: "#"
