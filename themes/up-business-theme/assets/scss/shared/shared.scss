@@ -59,7 +59,19 @@
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
 }
+@media (max-width: 576px) {
 
+    .form-content .form-items {
+        padding: 10px;
+        min-width: auto;
+    }
+    select {
+        display: flex;
+        flex-wrap: wrap;    
+      }
+    
+    
+}
 .form-content h3 {
     color: #fff;
     text-align: left;
